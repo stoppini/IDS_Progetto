@@ -1,3 +1,3 @@
 # IDS_Progetto
-Progetto di INgegneria del Software anno 2018/2019
+Progetto di Ingegneria del Software anno 2018/2019
 Barbascumpa,Rovetta,Tomasetti
